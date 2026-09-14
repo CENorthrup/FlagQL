@@ -1,2 +1,5 @@
 # FlagQL
-A fast and intuitive way to query CSV files using flag-based commands inspired by familiar SQL clauses.
+
+Clean-slate rebuild in progress.
+
+The previous implementation is intentionally not being carried forward. Architecture, stack, requirements, and implementation will be rediscovered from first principles.
